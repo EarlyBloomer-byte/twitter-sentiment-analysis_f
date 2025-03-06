@@ -74,3 +74,6 @@ For all the methods that follow, change the values of `TRAIN_PROCESSED_FILE`, `T
 * `dataset/negative-words.txt`: List of negative words.
 * `dataset/glove-seeds.txt`: GloVe words vectors from StanfordNLP which match our dataset for seeding word embeddings.
 * `Plots.ipynb`: IPython notebook used to generate plots present in report.
+## More Information about the Datasets
+Words can have different meaning based on context.Words like "beautiful" or "anger" can be positive or negative depending on how they're framed in a sentence, as well as the surrounding emotional tone.
+What is positive or negative can also depend on personal or cultural perceptions.
